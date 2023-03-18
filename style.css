@@ -34,11 +34,11 @@ div.container{
     flex-direction: column;
     font-family: 'Outfit',sans-serif;
     align-items: center;
-    padding: 20px;
-    width: 350px;
+    padding: 15px;
+    width: 333px;
     border-radius: var(--border-radius);
     background-color: var(--White);
-    margin-bottom: 30px;
+    margin-bottom: 20px;
 }
 .top-container{
     background-image: url('images/image-qr-code.png');
